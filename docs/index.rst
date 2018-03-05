@@ -8,6 +8,7 @@ Welcome to Shadow Project's documentation!
    readme
    installation
    usage
+   reference
    modules
    contributing
    authors
